@@ -262,12 +262,11 @@
   line-height: 1.4;
   color: #777777;
 }
-
 /* Newsletter */
 .newsletter {
+  display: flex;
   background-color: #f7f7f7;
   padding: 60px calc((100% - 960px) / 2);
-  display: flex;
   flex-wrap: wrap;
 }
 
